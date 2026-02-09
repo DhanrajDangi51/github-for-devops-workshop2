@@ -1,0 +1,11 @@
+git init
+git status
+git add filename
+git add .
+git commit -m "comment" 
+git restore filename
+rm filename
+git remote add origin ...
+git remote set-url origin ...
+git remote -v
+git add push origin
